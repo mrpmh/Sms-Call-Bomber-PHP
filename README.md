@@ -11,3 +11,6 @@ http://localhost/bomber/request.php <br>
 http://localhost/bomber/request.php?number=9123456789
 
 شماره تخریب شد :)
+
+<br>
+<h3>توجه داشته باشید که این سرویس فقط برای یادگیری هست و عواقب استفاده نادرست از اون به عهده خود شماست</h3>
